@@ -6,6 +6,8 @@ import 'package:morningo/Pages/Splash_Screen.dart';
 import 'package:morningo/Pages/Startup/welcome_page.dart';
 import 'package:morningo/Pages/Tools/TodoPage/TodoPage.dart';
 
+// THIS IS JARIF!
+
 void main() {
   WidgetsFlutterBinding.ensureInitialized();
   SystemChrome.setPreferredOrientations([
